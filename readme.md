@@ -1,5 +1,7 @@
 ## THIS IS A PERSONAL DB OF SCAMMER WALLETS THAT I MAINTAIN AND FOLLOW.
-##
+#### Current Analysis:
+    2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR
+#    
 #### Sam Bankman Fried - SBF
 - Alameda Research 25: 0x84D34f4f83a87596Cd3FB6887cFf8F17Bf5A7B83
     - $eth - https://etherscan.io/address/0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83<br>
